@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Browserfactory" type="CLASS" />
+      <mapping pattern="BrowserFactor" type="JAVA" />
+      <mapping pattern="NewFeature.feature" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
